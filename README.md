@@ -22,7 +22,7 @@ Graphic test on various patches:
 - It’s tiny and cute :)
 
 ### How to launch the SCREEN
-The emulated screen is made with pygame. To launch it you will need to do one of these:\
+The emulated screen is made with pygame. To launch it you will need to do one of these:
 - A – If you are on Windows just run oled.exe and that’s it.
 - B – If you are not on Windows, or you don’t want to run a executable, you will need to have installed Python 3, and the pygame and python-osc modules. Once you have installed all this, just run oled.py.
 The OLED toglebox on MOM.pd is for updating/restarting the screen. Be sure to have it checked.
