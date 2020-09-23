@@ -1,6 +1,21 @@
 # MOM
-Mother with oled screen and multipage support.\
-Or simply put: An Organele emulator :)
+a Mother with oled screen and multipage support.\
+Or simply put: An Organele emulator! :)\
+Also check my other organelle's patches [here](https://github.com/bembidiona/organelle-patches)
+
+
+<p align="center">
+  <img width="90%" src="https://raw.githubusercontent.com/bembidiona/organelle-emulator/master/_readme/mom_banner.jpg">
+</p>
+Graphic test on various patches:
+<p align="center">
+  <img width="24%" src="https://raw.githubusercontent.com/bembidiona/organelle-emulator/master/_readme/gif_drawave.gif">
+  <img width="24%" src="https://raw.githubusercontent.com/bembidiona/organelle-emulator/master/_readme/gif_pianelle.gif">
+  <img width="24%" src="https://raw.githubusercontent.com/bembidiona/organelle-emulator/master/_readme/gif_roll.gif">
+  <img width="24%" src="https://raw.githubusercontent.com/bembidiona/organelle-emulator/master/_readme/gif_poke.gif">
+</p>
+
+
 
 ## FEATURES:
 – Pretty accurate representation of the organelle screen. There is support for /oled/gFlip /oled/gClear /oled/gSetPixel /oled/gLine /oled/gBox /oled/gFillArea /oled/gCircle /oled/gFilledCircle /oled/gPrintln /oled/gInvertArea /oled/gInvertLine /oled/gShowInfoBar, screenLines and a bunch of other calls.
