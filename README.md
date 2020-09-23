@@ -1,6 +1,5 @@
 # MOM
-a Mother with oled screen and multipage support.\
-Or simply put: An Organele emulator! :)\
+a Mother with oled screen and multipage support. Or simply put: An Organele emulator! :)\
 Also check my other organelle's patches [here](https://github.com/bembidiona/organelle-patches)
 
 
